@@ -1,0 +1,16 @@
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+.gugi-font {
+    font-family: 'Gugi', cursive;
+}
+
+.nav-link:hover,
+.nav-link.active {
+    color: #4cb2d1 !important;
+}
